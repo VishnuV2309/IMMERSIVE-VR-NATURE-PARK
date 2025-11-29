@@ -1,7 +1,6 @@
 # Immersive VR Nature Park
 
-Built Using A-Frame
-Developed by **Vishnu V (R23EI051)**
+
 
 ## Overview
 
@@ -49,7 +48,9 @@ This project demonstrates how immersive VR environments can be created using sim
 ## Author
 
 **Vishnu V (R23EI051)**
+
 School of Computer Science & Engineering
+
 REVA University
 
 ---
